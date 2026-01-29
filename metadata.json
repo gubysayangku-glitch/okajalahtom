@@ -1,0 +1,8 @@
+{
+  "name": "Tomm AI Assistant",
+  "description": "A smart, friendly, and fast AI assistant developed for the Tomm AI application, specializing in coding, education, and creative ideas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
